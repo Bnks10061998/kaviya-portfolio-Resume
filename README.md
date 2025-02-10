@@ -181,11 +181,11 @@ Go to `public/index.html`. Change *title* and *logo* if you want to customize it
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/Html.png",
+                    "title": "Html"
                 },
                 {
-                    "icon": "images/skills/js.png",
+                    "icon": "images/skills/.png",
                     "title": "JavaScript"
                 }
         ]},
